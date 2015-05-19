@@ -1,0 +1,1 @@
+<a class="btn upload">Send <strong>{{PDFcount}}</strong> PDFs to Dropbox</a>
